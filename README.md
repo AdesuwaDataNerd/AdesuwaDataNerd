@@ -2,12 +2,12 @@
 -----------------------------------------------------------------------------------------------
 ## **About Me** 
 
- * 🧑‍💻 I am a ```Computer Scientist```, ```Machine Learning Engineer```, ```Data Scientist``` and i also do a bit of ```Technical Writing```.                         
- * 🤓I love anything ```Data```.
+ * 🧑‍💻 I am a ```Computer Scientist```, ```Embedded Systems Engineer```, ```Data Engineer/Scientist``` and i also do a bit of ```Technical Writing```.                         
+ * 🤓 My core lies in the intersection of ```Data```, ```IoT``` and ```AI```.
  * 🧑‍💻 I am interested in ```Aritificial Intelligence```.
- * 🧑‍💻 My other Stacks: ```Data Analysis```, ```Deep Learning```, ```Business Intelligence```, ```Cloud```.
+ * 🧑‍💻 My other Stacks: ```Firmware Development```, ```Deep Learning```, ```Business Intelligence```, ```Cloud```.
  * 🤓I am always ```eager to learn new things```.
- * 📹I create ```videos and sing the baritone 🎵```.
+ * 📹I create ```videos and sing the baritone 🎵``` in my free time.
 
 🧰 **My Skills**
 ---------------------------------------------------------------------------------
@@ -17,10 +17,14 @@
 [<img src="https://pandas.pydata.org/static/img/pandas.svg" alt="Pandas Logo" width="70"/>](https://pandas.pydata.org/)
 [<img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_002.png" alt="Matplotlib Logo" width="50"/>](https://matplotlib.org/)
 
+👉**IoT**
+
+[![My Skills](https://skillicons.dev/icons?i=cpp,arduino,cmake,powershell)](https://skillicons.dev)
+<img src="[https://www.espressif.com/sites/all/themes/espressif/images/logo-guidelines/primary-vertical-logo-1.png](https://www.espressif.com/sites/all/themes/espressif/images/logo-guidelines/primary-vertical-logo.png)" alt="Espressif Logo" width="50">
 
 👉**Softwares**
 
-[![My Skills](https://skillicons.dev/icons?i=anaconda,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=anaconda,aws,git,github,vscode)](https://skillicons.dev)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/250px-Jupyter_logo.svg.png" alt="Jupyter Notebook Logo" width="50"/>](https://jupyter.org/)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/120px-Microsoft_Excel_2013-2019_logo.svg.png" alt="Microsoft Excel Logo" width="50"/>](https://www.microsoft.com/en-us/microsoft-365/excel)
 [<img src="https://about.canva.com/wp-content/uploads/sites/3/2016/08/Canva_logo-1.png" alt="Canva Logo" width="50"/>](https://www.canva.com/)
